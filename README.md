@@ -9,14 +9,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F-A-M-Ji/F-A-M-Ji/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F-A-M-Ji/F-A-M-Ji/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/F-A-M-Ji/F-A-M-Ji/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/F-A-M-Ji/F-A-M-Ji/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=F-A-M-Ji.F-A-M-Ji&"  />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=F-A-M-Ji.F-A-M-Ji&"  />
+</div>
 
 ###
